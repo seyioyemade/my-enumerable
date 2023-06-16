@@ -7,8 +7,8 @@ class MyList
     @list = list
   end
 
-  def each(&block)
-    @list.each(&block)
+  def each(&)
+    @list.each(&)
   end
 end
 
@@ -26,5 +26,5 @@ puts(list.any? { |e| e == 5 })
 # => false
 
 # Test #filter
-puts list.filter(&:even?)
+puts(list.filter(&:even?))
 # => [2, 4]
