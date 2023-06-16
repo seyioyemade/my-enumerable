@@ -128,4 +128,4 @@ If you like this project, please give it a star, and if you would love to tell m
 
 ## 📝 License <a name="license"></a>
 
-This project is [LICENSE](./MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed.
