@@ -1,21 +1,20 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖-Enumerable](#-Enumerable-)
+- [📖 My Enumerable ](#-my-enumerable-)
   - [:hammer\_and\_wrench: Built With ](#hammer_and_wrench-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-     - [Install](#install)
+    - [Install](#install)
     - [Deployment](#deployment)
-  - [:busts\_in\_silhouette: Authors ](#busts_in_silhouette-authors-)
+  - [👥 Authors ](#-authors-)
   - [:telescope: Future Features ](#telescope-future-features-)
   - [:handshake: Contributing ](#handshake-contributing-)
-  - [:star:️ Show your support ](#star️-show-your-support-)
-  - [:pray: Acknowledgments ](#pray-acknowledgments-)
-  - [:question: FAQ (OPTIONAL) ](#question-faq-optional-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
@@ -129,4 +128,4 @@ If you like this project, please give it a star, and if you would love to tell m
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [LICENSE](./MIT) licensed.
